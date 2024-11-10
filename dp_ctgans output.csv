@@ -1,0 +1,101 @@
+,image_name,patient_id,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target,tfrecord,width,height,patient_code
+0,ISIC_2637011,IP_7279968,male,37,head/neck,nevus,benign,0,18,4747,4489,41
+1,ISIC_0015719,IP_3075186,male,74,lower extremity,unknown,benign,0,5,-582,4472,31
+2,ISIC_0015719,IP_3075186,female,25,head/neck,unknown,benign,0,5,4260,2524,9
+3,ISIC_0068279,IP_7279968,female,40,upper extremity,unknown,benign,0,4,281,4648,27
+4,ISIC_0074268,IP_3075186,male,46,upper extremity,unknown,benign,0,6,5460,2998,30
+5,ISIC_0074268,IP_7279968,female,63,head/neck,unknown,benign,0,4,3800,2875,6
+6,ISIC_2637011,IP_7279968,male,42,torso,unknown,benign,0,5,4988,4064,12
+7,ISIC_0074542,IP_3075186,male,79,head/neck,unknown,benign,0,10,1882,2752,18
+8,ISIC_0074311,IP_3075186,female,49,head/neck,unknown,benign,0,9,6062,4595,33
+9,ISIC_0015719,IP_3075186,male,32,upper extremity,unknown,benign,0,-3,3270,4163,26
+10,ISIC_2637011,IP_7279968,male,59,upper extremity,unknown,benign,0,12,1570,4405,21
+11,ISIC_0074542,IP_7279968,female,14,head/neck,unknown,benign,0,6,-1065,4021,2
+12,ISIC_0074268,IP_3075186,female,21,torso,nevus,benign,0,4,5502,4680,17
+13,ISIC_0052212,IP_2842074,male,17,head/neck,unknown,benign,0,-7,5706,4467,11
+14,ISIC_0052212,IP_7279968,female,54,upper extremity,nevus,benign,0,-5,5995,3900,27
+15,ISIC_2637011,IP_3075186,male,57,head/neck,nevus,benign,0,-6,4980,4675,27
+16,ISIC_0015719,IP_7279968,male,41,head/neck,nevus,benign,0,-1,4893,3919,9
+17,ISIC_0068279,IP_3075186,female,75,lower extremity,unknown,benign,0,2,1334,4300,19
+18,ISIC_2637011,IP_2842074,female,38,head/neck,unknown,benign,0,5,3178,4711,9
+19,ISIC_2637011,IP_7279968,male,75,head/neck,unknown,benign,0,12,6783,750,20
+20,ISIC_0052212,IP_7279968,female,32,head/neck,unknown,benign,0,4,5836,2517,18
+21,ISIC_0052212,IP_3075186,male,18,head/neck,unknown,benign,0,8,6340,1095,20
+22,ISIC_0015719,IP_8723313,female,48,head/neck,unknown,benign,0,15,2387,4641,31
+23,ISIC_0052212,IP_3075186,male,15,head/neck,nevus,benign,0,2,5379,4063,-1
+24,ISIC_2637011,IP_7279968,male,17,head/neck,unknown,benign,0,-1,5244,4403,-7
+25,ISIC_0074542,IP_3075186,male,40,upper extremity,unknown,benign,0,12,5309,4405,30
+26,ISIC_0015719,IP_3075186,male,46,lower extremity,unknown,benign,0,8,5607,4163,10
+27,ISIC_0015719,IP_3075186,male,81,upper extremity,unknown,benign,0,16,5156,4481,21
+28,ISIC_0015719,IP_7279968,male,39,torso,unknown,benign,0,10,5179,5130,38
+29,ISIC_2637011,IP_3075186,male,31,head/neck,unknown,benign,0,5,1302,4764,36
+30,ISIC_0015719,IP_3075186,male,83,upper extremity,unknown,benign,0,2,-500,4402,15
+31,ISIC_0015719,IP_3075186,male,32,head/neck,unknown,benign,0,0,4125,4488,38
+32,ISIC_0068279,IP_7279968,male,20,lower extremity,unknown,benign,0,4,-600,4762,16
+33,ISIC_0068279,IP_3075186,male,49,head/neck,unknown,benign,0,7,4916,4315,12
+34,ISIC_0052212,IP_3075186,male,74,lower extremity,unknown,benign,0,5,5228,2141,33
+35,ISIC_0074268,IP_7279968,female,81,head/neck,unknown,benign,0,7,2683,3501,35
+36,ISIC_2637011,IP_3075186,male,66,head/neck,unknown,benign,0,10,1927,3386,17
+37,ISIC_2637011,IP_3075186,male,38,lower extremity,nevus,benign,0,-4,-1131,4479,16
+38,ISIC_2637011,IP_6890425,male,36,head/neck,unknown,benign,0,11,1708,2279,20
+39,ISIC_2637011,IP_3075186,male,45,head/neck,unknown,benign,0,0,-595,4745,18
+40,ISIC_2637011,IP_7279968,male,21,head/neck,unknown,benign,0,4,5921,4775,16
+41,ISIC_2637011,IP_7279968,male,52,upper extremity,unknown,benign,0,3,6519,4846,27
+42,ISIC_2637011,IP_7279968,female,33,upper extremity,unknown,benign,0,7,5628,3937,23
+43,ISIC_2637011,IP_7279968,male,34,upper extremity,unknown,benign,0,14,6771,4280,25
+44,ISIC_0068279,IP_8723313,male,38,upper extremity,unknown,benign,0,11,1790,5150,25
+45,ISIC_2637011,IP_3075186,male,67,head/neck,unknown,benign,0,6,3430,3624,15
+46,ISIC_2637011,IP_3075186,male,51,upper extremity,nevus,benign,0,4,5587,3737,16
+47,ISIC_0052212,IP_7279968,male,22,head/neck,unknown,benign,0,1,-2152,3927,10
+48,ISIC_0052212,IP_7279968,male,73,head/neck,nevus,benign,0,-3,4711,4289,8
+49,ISIC_0015719,IP_3075186,male,38,head/neck,unknown,benign,0,12,2406,2648,18
+50,ISIC_0052212,IP_8723313,male,46,lower extremity,unknown,benign,0,-1,-1421,3420,31
+51,ISIC_2637011,IP_6890425,female,47,head/neck,nevus,benign,0,7,5265,4409,15
+52,ISIC_2637011,IP_3075186,male,73,head/neck,unknown,benign,0,7,5472,1100,14
+53,ISIC_0074268,IP_3075186,male,64,lower extremity,unknown,benign,0,-5,6149,4250,-2
+54,ISIC_0074268,IP_7279968,male,37,head/neck,unknown,benign,0,2,4808,4365,31
+55,ISIC_0015719,IP_2950485,male,12,head/neck,unknown,benign,0,5,3753,4235,32
+56,ISIC_0052212,IP_6890425,male,21,upper extremity,unknown,benign,0,15,3483,2738,17
+57,ISIC_2637011,IP_3075186,male,37,head/neck,nevus,benign,0,7,5098,1105,9
+58,ISIC_0068279,IP_3075186,male,73,upper extremity,nevus,benign,0,20,2872,3827,18
+59,ISIC_2637011,IP_7279968,male,40,head/neck,unknown,benign,0,17,5356,2839,20
+60,ISIC_2637011,IP_6890425,male,33,upper extremity,unknown,benign,0,2,2594,4189,30
+61,ISIC_0052212,IP_2842074,female,55,head/neck,unknown,benign,0,7,1352,1938,15
+62,ISIC_2637011,IP_3075186,male,68,head/neck,unknown,benign,0,7,5372,3304,12
+63,ISIC_2637011,IP_7279968,male,53,head/neck,unknown,benign,0,1,-27,3524,21
+64,ISIC_0015719,IP_3075186,female,45,head/neck,unknown,benign,0,1,4327,4893,24
+65,ISIC_2637011,IP_3075186,female,47,upper extremity,unknown,benign,0,-5,91,3516,21
+66,ISIC_0015719,IP_7279968,male,41,upper extremity,unknown,benign,0,17,1315,1385,19
+67,ISIC_0074268,IP_8723313,male,58,head/neck,unknown,benign,0,13,5015,4925,24
+68,ISIC_2637011,IP_7279968,male,80,upper extremity,unknown,benign,0,2,5950,3770,26
+69,ISIC_0052212,IP_7279968,female,27,head/neck,unknown,benign,0,0,5748,1603,29
+70,ISIC_2637011,IP_7279968,female,30,torso,unknown,benign,0,-4,2779,4460,31
+71,ISIC_0052212,IP_7279968,male,24,head/neck,unknown,benign,0,7,6344,4396,25
+72,ISIC_2637011,IP_3075186,male,26,upper extremity,nevus,benign,0,6,5082,1451,8
+73,ISIC_2637011,IP_7279968,female,55,head/neck,unknown,benign,0,3,690,1881,21
+74,ISIC_0068279,IP_2842074,female,48,head/neck,unknown,benign,0,14,4934,3180,14
+75,ISIC_2637011,IP_7279968,male,31,head/neck,nevus,benign,0,-1,4881,4539,4
+76,ISIC_0015719,IP_2842074,male,52,head/neck,nevus,benign,0,2,5049,3226,11
+77,ISIC_0015719,IP_7279968,male,54,upper extremity,nevus,benign,0,4,5084,4058,31
+78,ISIC_2637011,IP_3075186,male,15,head/neck,nevus,benign,0,3,6633,4717,25
+79,ISIC_0015719,IP_6890425,male,35,upper extremity,unknown,benign,0,-4,1179,4804,22
+80,ISIC_0068279,IP_6017204,male,45,head/neck,nevus,benign,0,7,352,4023,32
+81,ISIC_2637011,IP_2842074,male,42,head/neck,unknown,benign,0,18,4880,3855,19
+82,ISIC_2637011,IP_7279968,male,35,head/neck,unknown,benign,0,7,5207,4074,18
+83,ISIC_2637011,IP_7279968,male,67,upper extremity,unknown,benign,0,-2,1915,4508,19
+84,ISIC_2637011,IP_7279968,female,31,head/neck,unknown,benign,0,-2,4356,797,22
+85,ISIC_2637011,IP_7279968,male,17,head/neck,unknown,benign,0,14,4720,4538,14
+86,ISIC_0015719,IP_2842074,female,41,head/neck,unknown,benign,0,14,6671,3810,25
+87,ISIC_0015719,IP_3075186,male,8,upper extremity,unknown,benign,0,-8,6440,3040,25
+88,ISIC_0052212,IP_3075186,male,44,head/neck,unknown,benign,0,-5,1428,4528,11
+89,ISIC_0015719,IP_7279968,male,39,upper extremity,unknown,benign,0,-6,2414,4385,29
+90,ISIC_2637011,IP_3075186,male,29,head/neck,nevus,benign,0,7,3730,2295,17
+91,ISIC_0068279,IP_7279968,male,49,lower extremity,nevus,benign,0,0,4114,4566,18
+92,ISIC_0076742,IP_7279968,male,39,head/neck,unknown,benign,0,8,963,2259,22
+93,ISIC_0074268,IP_7279968,male,29,upper extremity,nevus,benign,0,7,4338,3277,25
+94,ISIC_2637011,IP_7279968,male,30,head/neck,nevus,benign,0,21,4272,4579,35
+95,ISIC_2637011,IP_2842074,female,55,head/neck,unknown,benign,0,10,1711,4578,28
+96,ISIC_0015719,IP_7279968,male,27,head/neck,unknown,benign,0,17,6238,4821,28
+97,ISIC_2637011,IP_3075186,male,35,upper extremity,nevus,benign,0,4,2538,3268,11
+98,ISIC_2637011,IP_3075186,female,22,head/neck,unknown,benign,0,-1,3708,3958,39
+99,ISIC_0015719,IP_7279968,male,32,head/neck,unknown,benign,0,12,6535,3121,8

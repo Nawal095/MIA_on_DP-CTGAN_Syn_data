@@ -1,0 +1,31 @@
+image_name,patient_id,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target,tfrecord,width,height,patient_code
+ISIC_2637011,IP_7279968,male,45,head/neck,unknown,benign,0,0,6000,4000,0
+ISIC_0015719,IP_3075186,female,45,upper extremity,unknown,benign,0,0,6000,4000,1
+ISIC_0052212,IP_2842074,female,50,lower extremity,nevus,benign,0,6,1872,1053,2
+ISIC_0068279,IP_6890425,female,45,head/neck,unknown,benign,0,0,1872,1053,3
+ISIC_0074268,IP_8723313,female,55,upper extremity,unknown,benign,0,11,6000,4000,4
+ISIC_0074311,IP_2950485,female,40,lower extremity,unknown,benign,0,1,6000,4000,5
+ISIC_0074542,IP_4698288,male,25,lower extremity,unknown,benign,0,14,5184,3456,6
+ISIC_0075663,IP_6017204,female,35,torso,unknown,benign,0,11,2592,1936,7
+ISIC_0075914,IP_7622888,male,30,torso,unknown,benign,0,0,6000,4000,8
+ISIC_0076262,IP_5075533,female,50,lower extremity,unknown,benign,0,9,6000,4000,9
+ISIC_0076545,IP_9802602,male,55,upper extremity,unknown,benign,0,14,4288,2848,10
+ISIC_0076742,IP_2318163,male,75,upper extremity,unknown,benign,0,11,6000,4000,11
+ISIC_0076995,IP_2235340,female,55,torso,nevus,benign,0,10,1872,1053,12
+ISIC_0077472,IP_3691360,female,40,torso,unknown,benign,0,3,6000,4000,13
+ISIC_0077735,IP_1109756,male,70,torso,unknown,benign,0,4,6000,4000,14
+ISIC_0078703,IP_7279968,male,45,torso,unknown,benign,0,0,6000,4000,0
+ISIC_0078712,IP_2189124,male,40,lower extremity,unknown,benign,0,6,3264,2448,15
+ISIC_0079038,IP_5295861,male,70,torso,unknown,benign,0,13,6000,4000,16
+ISIC_0080512,IP_1870306,male,75,torso,unknown,benign,0,12,6000,4000,17
+ISIC_0080752,IP_2613684,male,50,torso,unknown,benign,0,3,5184,3456,18
+ISIC_0080817,IP_7318404,male,50,lower extremity,unknown,benign,0,8,4288,2848,19
+ISIC_0081956,IP_2010919,female,50,upper extremity,unknown,benign,0,1,6000,4000,20
+ISIC_0082348,IP_7684360,male,55,torso,unknown,benign,0,5,6000,4000,21
+ISIC_0082543,IP_9463965,female,30,torso,unknown,benign,0,9,6000,4000,22
+ISIC_0082934,IP_6572129,male,65,torso,unknown,benign,0,12,6000,4000,23
+ISIC_0083035,IP_5805281,male,50,torso,unknown,benign,0,11,6000,4000,24
+ISIC_0084086,IP_4023055,male,60,lower extremity,nevus,benign,0,12,1872,1053,25
+ISIC_0084270,IP_2961528,male,40,lower extremity,nevus,benign,0,1,1872,1053,26
+ISIC_0084395,IP_0175539,female,45,torso,nevus,benign,0,3,1872,1053,27
+ISIC_0085172,IP_1705144,female,50,lower extremity,unknown,benign,0,11,6000,4000,28
